@@ -575,6 +575,10 @@ http://cdnd.sonyplex.com:8090/hls/willowcrickethd.m3u8
 #https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/130714.ts
 http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD 2
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1773408893&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=90337341bff69a7884edf396c3dbff7d
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNB5kRKY/T-Sports-HD.png" group-title="Sports",T SPORTS FHD
 http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
