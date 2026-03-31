@@ -633,6 +633,8 @@ http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bjkmNwgy/Discovery-HD.png" group-title="Documentary",DISCOVERY FHD
 http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest?cb=20210515171227" group-title="Documentary",HISTORY TV 18 HD
+http://103.229.254.25:7001/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest?cb=20210515171227" group-title="Documentary",HISTORY TV 18 FHD
 http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
